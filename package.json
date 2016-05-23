@@ -1,0 +1,13 @@
+{
+  "name": "meteor-instantsearch-bug",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "instantsearch.js": "^1.5.1",
+    "meteor-node-stubs": "^0.2.3",
+    "react": "^15.1.0",
+    "react-mounter": "^1.2.0"
+  }
+}
